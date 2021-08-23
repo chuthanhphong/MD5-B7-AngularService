@@ -1,5 +1,4 @@
 export interface Dictionary {
-  id?: string;
-  vnString?: string;
-  enString?: string;
+  word?: string;
+  mean?: string;
 }

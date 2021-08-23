@@ -1,0 +1,8 @@
+<h2>Dictionary List</h2>
+<ul>
+  <li *ngFor="let item of dictionaryService.dictionaries">
+    <a [routerLink]="['/dictionaries',item.word]">{{item.word}}</a>
+  </li>
+</ul>
+
+<router-outlet></router-outlet>

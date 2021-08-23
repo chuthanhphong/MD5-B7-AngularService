@@ -5,19 +5,37 @@ import {Dictionary} from '../dictionary';
   providedIn: 'root'
 })
 export class DictionaryService {
-  dictionary: Dictionary[] =[
+  dictionaries: Dictionary[] = [
     {
-      id:1,
-      vnString : 'Xin Chào',
-      enString :'Hello'
+      word : 'Xin Chào',
+      mean : 'Hello'
     },
     {
-      id:2,
-      vnString:'Tạm Biệt',
-      enString :''
+
+      word: 'Tạm Biệt',
+      mean : 'goodbye'
     },
-    {}
+    {
+      word: 'máy tính',
+      mean : 'Computer'
+    }
   ];
 
   constructor() { }
+  search(word: string): string {
+    if (!word) {
+      return '';
+    }
+    // tslint:disable-next-line:prefer-for-of
+    for (let i = 0; i < this.dictionaries.length; i++) {
+      if (this.dictionaries[i].word === word) {
+        return this.dictionaries[i].mean;
+      }
+    }
+    return 'Not found';
+  }
+
+  getAll() {
+    return this.dictionaries;
+  }
 }
