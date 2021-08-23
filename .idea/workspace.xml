@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e84ba957-0ddd-4f48-a7d8-d8fed7c6fbf8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../AngularService.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài 5 -Components Interaction/angular-progress-bar/src/app/progress-bar/progress-bar.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài 5 -Components Interaction/angular-progress-bar/src/app/progress-bar/progress-bar.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài 5 -Components Interaction/angular-progress-bar/src/app/progress-bar/progress-bar.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài 5 -Components Interaction/angular-progress-bar/src/app/progress-bar/progress-bar.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài 5 -Components Interaction/angular-rating-bar/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài 5 -Components Interaction/angular-rating-bar/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài 5 -Components Interaction/angular-rating-bar/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài 5 -Components Interaction/angular-rating-bar/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài 5 -Components Interaction/angular-rating-bar/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài 5 -Components Interaction/angular-rating-bar/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài 5 -Components Interaction/angular-rating-bar/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài 5 -Components Interaction/angular-rating-bar/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài 5 -Components Interaction/angular-rating-bar/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài 5 -Components Interaction/angular-rating-bar/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài 5 -Components Interaction/angular-rating-bar/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài 5 -Components Interaction/angular-rating-bar/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài 5 -Components Interaction/angular-rating-bar/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài 5 -Components Interaction/angular-rating-bar/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài 5 -Components Interaction/angular-rating-bar/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài 5 -Components Interaction/angular-rating-bar/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài 5 -Components Interaction/angular-rating-bar/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài 5 -Components Interaction/angular-rating-bar/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài 5 -Components Interaction/angular-rating-bar/src/app/irating-unit.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài 5 -Components Interaction/angular-rating-bar/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài 5 -Components Interaction/angular-rating-bar/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài 5 -Components Interaction/angular-rating-bar/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài 5 -Components Interaction/angular-rating-bar/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài 5 -Components Interaction/angular-rating-bar/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài 5 -Components Interaction/angular-rating-bar/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài 5 -Components Interaction/angular-rating-bar/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài 5 -Components Interaction/angular-rating-bar/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài 5 -Components Interaction/angular-rating-bar/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài 5 -Components Interaction/angular-rating-bar/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài 5 -Components Interaction/angular-rating-bar/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài 5 -Components Interaction/angular-rating-bar/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài 5 -Components Interaction/angular-rating-bar/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài 6 -AngularForm/formRegister/src/app/register/register.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài 6 -AngularForm/formRegister/src/app/register/register.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài 6 -AngularForm/formRegister/src/app/register/register.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài 6 -AngularForm/formRegister/src/app/register/register.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài 6 -AngularForm/loginForm/src/app/login-form/login-form.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài 6 -AngularForm/loginForm/src/app/login-form/login-form.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài 6 -AngularForm/loginForm/src/app/login-form/login-form.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài 6 -AngularForm/loginForm/src/app/login-form/login-form.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài 6 -AngularForm/loginForm/src/app/user.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baithuchanh2/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baithuchanh2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baithuchanh2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baithuchanh2/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baithuchanh2/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baithuchanh2/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baithuchanh2/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baithuchanh2/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baithuchanh2/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baithuchanh2/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baithuchanh2/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baithuchanh2/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baithuchanh2/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baithuchanh2/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baithuchanh2/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baithuchanh2/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baithuchanh2/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baithuchanh2/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baithuchanh2/src/app/service/song.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baithuchanh2/src/app/service/song.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baithuchanh2/src/app/youtube-play-list/youtube-play-list.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baithuchanh2/src/app/youtube-play-list/youtube-play-list.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baithuchanh2/src/app/youtube-play-list/youtube-play-list.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baithuchanh2/src/app/youtube-play-list/youtube-play-list.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baithuchanh2/src/app/youtube-player/youtube-player.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baithuchanh2/src/app/youtube-player/youtube-player.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baithuchanh2/src/app/youtube-player/youtube-player.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baithuchanh2/src/app/youtube-player/youtube-player.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baithuchanh2/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baithuchanh2/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baithuchanh2/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baithuchanh2/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baithuchanh2/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baithuchanh2/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baithuchanh2/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baithuchanh2/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baithuchanh2/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baithuchanh2/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baithuchanh2/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baithuchanh2/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baithuchanh2/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-timelines-app/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-timelines-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-timelines-app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-timelines-app/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-timelines-app/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-timelines-app/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-timelines-app/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-timelines-app/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-timelines-app/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-timelines-app/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-timelines-app/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-timelines-app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-timelines-app/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-timelines-app/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-timelines-app/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-timelines-app/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-timelines-app/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-timelines-app/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-timelines-app/src/app/service/date-util.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-timelines-app/src/app/service/date-util.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-timelines-app/src/app/timeline-component/timeline-component.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-timelines-app/src/app/timeline-component/timeline-component.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-timelines-app/src/app/timeline-component/timeline-component.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-timelines-app/src/app/timeline-component/timeline-component.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-timelines-app/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-timelines-app/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-timelines-app/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-timelines-app/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-timelines-app/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-timelines-app/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-timelines-app/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-timelines-app/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-timelines-app/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-timelines-app/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-timelines-app/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-timelines-app/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-timelines-app/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo1608/src/main/java/com/example/demo1608/Controller/RoleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo1608/src/main/java/com/example/demo1608/Controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo1608/src/main/java/com/example/demo1608/Repository/IRoleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo1608/src/main/java/com/example/demo1608/Repository/IUserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo1608/src/main/java/com/example/demo1608/Service/IGenaralService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo1608/src/main/java/com/example/demo1608/Service/Role/IRoleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo1608/src/main/java/com/example/demo1608/Service/Role/RoleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo1608/src/main/java/com/example/demo1608/Service/User/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo1608/src/main/java/com/example/demo1608/Service/User/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo1608/src/main/java/com/example/demo1608/model/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo1608/src/main/java/com/example/demo1608/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ajax-Thuchanh1/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ajax-Thuchanh1/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ajax-Thuchanh1/src/main/java/com/codegym/config/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ajax-Thuchanh1/src/main/java/com/codegym/config/AppInit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ajax-Thuchanh1/src/main/java/com/codegym/controller/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ajax-Thuchanh1/src/main/java/com/codegym/controller/SmartphoneController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ajax-Thuchanh1/src/main/java/com/codegym/model/Smartphone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ajax-Thuchanh1/src/main/java/com/codegym/repository/ISmartphoneRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ajax-Thuchanh1/src/main/java/com/codegym/service/ISmartphoneService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ajax-Thuchanh1/src/main/java/com/codegym/service/SmartphoneService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ajax-Thuchanh1/src/main/webapp/WEB-INF/views/phones/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudyModule4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudyModule4/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudyModule4/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudyModule4/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudyModule4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudyModule4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudyModule4/src/main/java/com/codegym/config/AppConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudyModule4/src/main/java/com/codegym/config/AppInit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudyModule4/src/main/java/com/codegym/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudyModule4/src/main/java/com/codegym/repository/IUserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CustomValidation/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CustomValidation/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CustomValidation/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CustomValidation/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CustomValidation/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CustomValidation/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CustomValidation/src/main/java/com/codegym/config/AppConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CustomValidation/src/main/java/com/codegym/config/AppInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CustomValidation/src/main/java/com/codegym/controller/PhoneController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CustomValidation/src/main/java/com/codegym/model/PhoneNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CustomValidation/src/main/resources/validation-message.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CustomValidation/src/main/webapp/WEB-INF/views/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CustomValidation/src/main/webapp/WEB-INF/views/result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MD4_ORDER/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MD4_ORDER/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MD4_ORDER/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MD4_ORDER/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MD4_ORDER/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MD4_ORDER/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MD4_ORDER/src/main/java/com/codegym/config/AppConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MD4_ORDER/src/main/java/com/codegym/config/AppInit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MD4_ORDER/src/main/java/com/codegym/controller/FoodController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MD4_ORDER/src/main/java/com/codegym/model/Discount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MD4_ORDER/src/main/java/com/codegym/model/Food.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MD4_ORDER/src/main/java/com/codegym/model/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MD4_ORDER/src/main/java/com/codegym/model/OrderDetail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MD4_ORDER/src/main/java/com/codegym/model/Price.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MD4_ORDER/src/main/java/com/codegym/model/Restaurant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MD4_ORDER/src/main/java/com/codegym/model/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MD4_ORDER/src/main/java/com/codegym/model/Tag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MD4_ORDER/src/main/java/com/codegym/model/Type.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MD4_ORDER/src/main/java/com/codegym/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MD4_ORDER/src/main/java/com/codegym/model/User_role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MD4_ORDER/src/main/java/com/codegym/repository/IFoodRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MD4_ORDER/src/main/java/com/codegym/repository/IPriceRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MD4_ORDER/src/main/java/com/codegym/repository/IUserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MD4_ORDER/src/main/java/com/codegym/service/food/FoodService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MD4_ORDER/src/main/java/com/codegym/service/food/IFoodService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MD4_ORDER/src/main/java/com/codegym/service/food/IGeneralService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/MvcWebApplicationInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/SecurityWebApplicationInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/WebConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/WebSecurityConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/config/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/config/AppConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/config/AppConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/config/AppInit.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/config/AppInit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/config/CustomSuccessHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/controller/BlogController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/controller/CategoryController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/controller/FoodController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/controller/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/controller/PriceController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/model/Blog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/model/Category.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/model/Discount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/model/Food.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/model/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/model/OrderDetail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/model/Price.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/model/Restaurant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/model/Role.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/model/Tag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/model/Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/model/User_role.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/repository/IBlogRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/repository/ICategoryRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/repository/IDiscountRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/repository/IFoodRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/repository/IPriceRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/repository/IRestaurantRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/repository/IRoleRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/repository/ITagRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/repository/ITypeRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/repository/IUserRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/repository/IUserRoleRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/service/IBlogService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/service/ICategoryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/service/IGeneralService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/service/IGeneralService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/service/Role/IRoleService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/service/Role/RoleService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/service/User/IUserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/service/User/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/service/User_role/IUserRoleService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/service/User_role/User_RoleService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/service/discount/DiscountService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/service/discount/IDiscountService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/service/food/FoodService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/service/food/IFoodService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/service/impl/BlogService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/service/impl/CategoryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/service/price/IPriceService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/service/price/PriceService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/service/restaurant/IRestaurantService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/service/restaurant/RestaurantServive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/service/tag/ITagService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/service/tag/TagService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/service/type/ITypeService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/service/type/TypeService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/FastInfoset-1.2.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/aopalliance-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/aspectjweaver-1.9.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/attoparser-2.0.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/byte-buddy-1.10.22.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/classmate-1.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/commons-fileupload-1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/commons-io-2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/hibernate-commons-annotations-5.1.2.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/hibernate-core-5.5.3.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/hibernate-entitymanager-5.5.3.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/hibernate-validator-6.1.0.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/istack-commons-runtime-3.0.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/jackson-annotations-2.12.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/jackson-core-2.12.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/jackson-databind-2.12.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/jakarta.validation-api-2.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/jandex-2.2.3.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/javassist-3.27.0-GA.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/javax.activation-api-1.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/jaxb-api-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/jaxb-runtime-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/jboss-logging-3.4.2.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/mysql-connector-java-8.0.25.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/slf4j-api-1.6.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/spring-aop-4.3.10.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/spring-aop-5.3.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/spring-aspects-5.3.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/spring-beans-4.3.10.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/spring-beans-5.3.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/spring-context-4.3.10.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/spring-context-5.3.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/spring-core-4.3.10.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/spring-core-5.3.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/spring-data-commons-2.5.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/spring-data-jpa-2.5.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/spring-expression-4.3.10.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/spring-expression-5.3.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/spring-jcl-5.3.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/spring-jdbc-4.3.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/spring-jdbc-5.3.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/spring-orm-5.3.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/spring-security-acl-4.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/spring-tx-5.3.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/spring-web-5.3.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/spring-webmvc-5.3.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/stax-ex-1.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/txw2-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/lib/validation-api-2.0.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/views/Role/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/views/Role/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/views/Role/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/views/User/create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/views/User/delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/views/User/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/views/User/error.404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/views/User/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/views/admin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/views/blog/create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/views/blog/delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/views/blog/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/views/blog/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/views/blog/view.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/views/category/create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/views/category/delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/views/category/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/views/category/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/views/category/view.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/views/error.404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/views/food/create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/views/food/delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/views/food/info.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/views/food/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/views/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/views/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/views/layout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/views/order/create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/views/order/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/views/price/create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/views/user.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/assets/image/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/assets/image/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/assets/image/res_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/assets/image/rest_1_food_1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/assets/image/rest_1_food_2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/assets/image/rest_1_food_3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/assets/image/rest_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/assets/image/rest_2_food_4.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/assets/image/rest_2_food_5.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/views/admin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/views/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/views/user.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../New folder/.idea/New folder.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QlKhachHangSpringBoot/src/main/java/com/example/demo/controller/CustomerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QlKhachHangSpringBoot/src/main/java/com/example/demo/model/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QlKhachHangSpringBoot/src/main/java/com/example/demo/repository/ICustomerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QlKhachHangSpringBoot/src/main/java/com/example/demo/service/CustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QlKhachHangSpringBoot/src/main/java/com/example/demo/service/ICustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QlKhachHangSpringBoot/src/main/java/com/example/demo/service/IGeneralService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QlKhachHangSpringBoot/src/main/resources/templates/customer/create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QlKhachHangSpringBoot/src/main/resources/templates/customer/delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QlKhachHangSpringBoot/src/main/resources/templates/customer/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QlKhachHangSpringBoot/src/main/resources/templates/customer/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QlKhachHangSpringBoot/src/main/resources/templates/error404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UNIFY" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baitapquanlysanpham/src/main/java/com/codegym/demo/ProductController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baitapquanlysanpham/src/main/java/com/codegym/demo/controller/CategoryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baitapquanlysanpham/src/main/java/com/codegym/demo/model/Category.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baitapquanlysanpham/src/main/java/com/codegym/demo/model/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baitapquanlysanpham/src/main/java/com/codegym/demo/repository/ICategoryRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baitapquanlysanpham/src/main/java/com/codegym/demo/repository/IProductRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baitapquanlysanpham/src/main/java/com/codegym/demo/service/Category/CategoryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baitapquanlysanpham/src/main/java/com/codegym/demo/service/Category/ICategoryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baitapquanlysanpham/src/main/java/com/codegym/demo/service/IGeneralService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baitapquanlysanpham/src/main/java/com/codegym/demo/service/Product/IProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baitapquanlysanpham/src/main/java/com/codegym/demo/service/Product/ProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baitapquanlysanpham/src/main/resources/templates/category/create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baitapquanlysanpham/src/main/resources/templates/category/delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baitapquanlysanpham/src/main/resources/templates/category/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baitapquanlysanpham/src/main/resources/templates/category/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baitapquanlysanpham/src/main/resources/templates/error404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baitapquanlysanpham/src/main/resources/templates/product/create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baitapquanlysanpham/src/main/resources/templates/product/delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baitapquanlysanpham/src/main/resources/templates/product/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baitapquanlysanpham/src/main/resources/templates/product/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baithuchanh1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baithuchanh1/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baithuchanh1/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baithuchanh1/.idea/libraries-with-intellij-classes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baithuchanh1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baithuchanh1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baithuchanh1/src/main/java/com/codegym/cms/configuration/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baithuchanh1/src/main/java/com/codegym/cms/configuration/AppInit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baithuchanh1/src/main/java/com/codegym/cms/controller/CustomerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baithuchanh1/src/main/java/com/codegym/cms/model/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baithuchanh1/src/main/java/com/codegym/cms/repository/CustomerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baithuchanh1/src/main/java/com/codegym/cms/repository/ICustomerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baithuchanh1/src/main/java/com/codegym/cms/repository/IGeneralRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baithuchanh1/src/main/java/com/codegym/cms/service/CustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baithuchanh1/src/main/java/com/codegym/cms/service/ICustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baithuchanh1/src/main/java/com/codegym/cms/service/IGeneralService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baithuchanh1/src/main/webapp/WEB-INF/views/customer/create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baithuchanh1/src/main/webapp/WEB-INF/views/customer/delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baithuchanh1/src/main/webapp/WEB-INF/views/customer/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baithuchanh1/src/main/webapp/WEB-INF/views/customer/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baithuchanh1/src/main/webapp/WEB-INF/views/customer/loi404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baithuchanh1B-7/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baithuchanh1B-7/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baithuchanh1B-7/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baithuchanh1B-7/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baithuchanh1B-7/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baithuchanh1B-7/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baithuchanh1B-7/src/main/java/com/codegym/config/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baithuchanh1B-7/src/main/java/com/codegym/config/AppInit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baithuchanh1B-7/src/main/java/com/codegym/model/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy/src/main/java/com/codegym/casestudy/controller/user/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy/src/main/java/com/codegym/casestudy/model/user/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy/src/main/java/com/codegym/casestudy/model/user/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy/src/main/java/com/codegym/casestudy/repository/user/IUserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy/src/main/java/com/codegym/casestudy/service/IGeneralService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo2-cookie/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo2-cookie/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo2-cookie/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo2-cookie/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo2-cookie/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo2-cookie/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo2-cookie/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo2-cookie/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo2-cookie/src/main/java/com/codegym/AppConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo2-cookie/src/main/java/com/codegym/AppInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo2-cookie/src/main/java/com/codegym/controller/LoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo2-cookie/src/main/java/com/codegym/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../html/untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../html/untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../html/untitled/.idea/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../html/untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../html/untitled/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kiemtra/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kiemtra/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kiemtra/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kiemtra/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kiemtra/.idea/libraries-with-intellij-classes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kiemtra/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kiemtra/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kiemtra/.idea/webContexts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kiemtra/src/main/java/com/codegym/config/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kiemtra/src/main/java/com/codegym/config/AppInit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kiemtra/src/main/java/com/codegym/controller/CategoryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kiemtra/src/main/java/com/codegym/controller/PhoneController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kiemtra/src/main/java/com/codegym/model/Category.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kiemtra/src/main/java/com/codegym/model/Phone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kiemtra/src/main/java/com/codegym/repository/ICategoryRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kiemtra/src/main/java/com/codegym/repository/IPhoneRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kiemtra/src/main/java/com/codegym/service/Category/CategoryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kiemtra/src/main/java/com/codegym/service/Category/ICategoryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kiemtra/src/main/java/com/codegym/service/IGeneralService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kiemtra/src/main/java/com/codegym/service/Phone/IPhoneService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kiemtra/src/main/java/com/codegym/service/Phone/PhoneService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kiemtra/src/main/webapp/WEB-INF/views/category/create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kiemtra/src/main/webapp/WEB-INF/views/category/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kiemtra/src/main/webapp/WEB-INF/views/category/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kiemtra/src/main/webapp/WEB-INF/views/phone/create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kiemtra/src/main/webapp/WEB-INF/views/phone/delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kiemtra/src/main/webapp/WEB-INF/views/phone/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kiemtra/src/main/webapp/WEB-INF/views/phone/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4Case/.idea/LearningModule4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4Case/src/main/java/com/codegym/config/AppConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4Case/src/main/java/com/codegym/config/AppInit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4Case/src/main/java/com/codegym/model/Price.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4Case/src/main/java/com/codegym/model/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4Case/src/main/java/com/codegym/model/Tag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4Case/src/main/java/com/codegym/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4Case/src/main/java/com/codegym/model/User_role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../testlaibaitudien/src/main/java/Controller/Dictionary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../testlaibaitudien/src/main/webapp/WEB-INF/ web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../testlaibaitudien/src/main/webapp/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../testlaibaitudien/src/main/webapp/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../testlaibaitudien/src/main/webapp/views/error.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../testlaibaitudien/src/main/webapp/views/form.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh1/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh1/src/main/java/com/codegym/MvcWebApplicationInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh1/src/main/java/com/codegym/SecurityWebApplicationInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh1/src/main/java/com/codegym/WebConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh1/src/main/java/com/codegym/WebSecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh1/src/main/java/com/codegym/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh1/src/main/webapp/WEB-INF/views/admin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh1/src/main/webapp/WEB-INF/views/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh1/src/main/webapp/WEB-INF/views/user.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh1I18N/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh1I18N/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh1I18N/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh1I18N/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh1I18N/.idea/libraries-with-intellij-classes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh1I18N/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh1I18N/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh1I18N/src/main/java/ApplicationConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh1I18N/src/main/java/ApplicationInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh1I18N/src/main/java/com/codegym/blog/controller/DashBoardController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh1I18N/src/main/java/com/codegym/blog/controller/LoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh1I18N/src/main/java/com/codegym/blog/request/Credential.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh1I18N/src/main/java/com/codegym/blog/response/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh1I18N/src/main/resources/message.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh1I18N/src/main/resources/message_haw.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh1I18N/src/main/webapp/WEB-INF/views/dashboard.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh1I18N/src/main/webapp/WEB-INF/views/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh1Security15/src/main/java/com/codegym/config/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh1Security15/src/main/java/com/codegym/config/AppInit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh1Security15/src/main/java/com/codegym/config/CustomSuccessHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh1Security15/src/main/java/com/codegym/controller/SercurityController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh1Security15/src/main/java/com/codegym/security/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh1Security15/src/main/java/com/codegym/security/SecurityInit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh1Security15/src/main/webapp/WEB-INF/views/access-denied.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh1Security15/src/main/webapp/WEB-INF/views/admin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh1Security15/src/main/webapp/WEB-INF/views/welcome.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh1SpringBoot/src/main/java/com/codegym/thuchanh1springboot/controller/GreetingController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh1SpringBoot/src/main/resources/templates/greeting.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh2- JWT/src/main/java/com/codegym/config/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh2- JWT/src/main/java/com/codegym/config/AppInit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh2- JWT/src/main/java/com/codegym/config/CustomAccessDeniedHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh2- JWT/src/main/java/com/codegym/config/JwtAuthenticationFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh2- JWT/src/main/java/com/codegym/config/RestAuthenticationEntryPoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh2- JWT/src/main/java/com/codegym/controller/AuthController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh2- JWT/src/main/java/com/codegym/model/JwtResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh2- JWT/src/main/java/com/codegym/model/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh2- JWT/src/main/java/com/codegym/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh2- JWT/src/main/java/com/codegym/model/UserPrinciple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh2- JWT/src/main/java/com/codegym/repository/IRoleRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh2- JWT/src/main/java/com/codegym/repository/IUserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh2- JWT/src/main/java/com/codegym/security/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh2- JWT/src/main/java/com/codegym/security/SecurityInit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh2- JWT/src/main/java/com/codegym/serivce/IGeneralService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh2- JWT/src/main/java/com/codegym/serivce/JwtService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh2- JWT/src/main/java/com/codegym/serivce/role/IRoleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh2- JWT/src/main/java/com/codegym/serivce/role/RoleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh2- JWT/src/main/java/com/codegym/serivce/user/IUserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh2- JWT/src/main/java/com/codegym/serivce/user/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanh2Cookie/.idea/thuchanh2Cookie.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhAPI/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhAPI/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhAPI/.gradle/6.8/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhAPI/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhAPI/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhAPI/.gradle/6.8/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhAPI/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhAPI/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhAPI/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhAPI/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhAPI/.gradle/configuration-cache/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhAPI/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhAPI/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhAPI/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhAPI/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhAPI/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhAPI/src/main/java/com/codegym/cms/config/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhAPI/src/main/java/com/codegym/cms/config/AppInit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhAPI/src/main/java/com/codegym/cms/controller/CustomerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhAPI/src/main/java/com/codegym/cms/model/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhAPI/src/main/java/com/codegym/cms/repository/ICustomerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhAPI/src/main/java/com/codegym/cms/service/CustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhAPI/src/main/java/com/codegym/cms/service/ICustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhAPI/src/main/java/com/codegym/cms/service/IGeneralService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhvalidate/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhvalidate/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhvalidate/.gradle/6.8/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhvalidate/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhvalidate/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhvalidate/.gradle/6.8/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhvalidate/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhvalidate/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhvalidate/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhvalidate/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhvalidate/.gradle/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhvalidate/.gradle/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhvalidate/.gradle/configuration-cache/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhvalidate/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhvalidate/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhvalidate/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhvalidate/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhvalidate/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhvalidate/.idea/libraries-with-intellij-classes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhvalidate/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhvalidate/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhvalidate/build/tmp/war/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhvalidate/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhvalidate/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhvalidate/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhvalidate/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhvalidate/src/main/java/com/codegym/configuration/AppConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhvalidate/src/main/java/com/codegym/configuration/AppInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhvalidate/src/main/java/com/codegym/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhvalidate/src/main/java/com/codegym/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhvalidate/src/main/webapp/WEB-INF/views/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhvalidate/src/main/webapp/WEB-INF/views/result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled1/src/main/java/com/codegym/configuration/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled1/src/main/java/com/codegym/configuration/AppInit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled1/src/main/java/com/codegym/model/Blog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled2/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled2/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled2/.gradle/6.8/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled2/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled2/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled2/.gradle/6.8/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled2/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled2/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled2/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled2/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled2/.gradle/configuration-cache/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled2/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled2/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled2/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled2/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled2/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled2/.idea/libraries-with-intellij-classes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled2/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled2/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled2/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled2/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled2/src/main/java/com/codegym/config/AppConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled2/src/main/java/com/codegym/config/AppInit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled2/src/main/java/com/codegym/controller/FoodController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled2/src/main/java/com/codegym/model/Discount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled2/src/main/java/com/codegym/model/Food.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled2/src/main/java/com/codegym/model/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled2/src/main/java/com/codegym/model/OrderDetail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled2/src/main/java/com/codegym/model/Price.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled2/src/main/java/com/codegym/model/Restaurant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled2/src/main/java/com/codegym/model/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled2/src/main/java/com/codegym/model/Tag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled2/src/main/java/com/codegym/model/Type.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled2/src/main/java/com/codegym/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled2/src/main/java/com/codegym/model/User_role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled2/src/main/java/com/codegym/repository/IFoodRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled2/src/main/java/com/codegym/repository/IPriceRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled2/src/main/java/com/codegym/repository/IUserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled2/src/main/java/com/codegym/service/food/FoodService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled2/src/main/java/com/codegym/service/food/IFoodService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled2/src/main/java/com/codegym/service/food/IGeneralService.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../" />
+  </component>
+  <component name="ProjectId" id="1x6xQYo6Oc4qBwc6HxzCuYcBBLO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e84ba957-0ddd-4f48-a7d8-d8fed7c6fbf8" name="Changes" comment="" />
+      <created>1629689324307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629689324307</updated>
+      <workItem from="1629689325864" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
