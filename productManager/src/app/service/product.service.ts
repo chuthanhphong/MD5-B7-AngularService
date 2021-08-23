@@ -35,4 +35,34 @@ export class ProductService {
   getAll() {
     return this.products;
   }
+  saveProduct(product) {
+    this.products.push(product);
+  }
+  findById(id: number ) {
+    // tslint:disable-next-line:prefer-for-of
+    for (let i = 0; i < this.products.length; i++) {
+      if (this.products[i].id === id) {
+        return this.products[i];
+      }
+    }
+    return  null;
+  }
+  editProduct(id: number , product: Product) {
+    for (let i = 0; i < this.products.length; i++) {
+      if (this.products[i].id === id) {
+        this.products[i] = product;
+      }
+    }
+  }
+  deleteProduct(id: number) {
+    const newProduct = [];
+    // tslint:disable-next-line:prefer-for-of
+    for (let i = 0; i < this.products.length; i++) {
+      if (id !== this.products[i].id) {
+        newProduct.push(this.products[i]);
+    }
+  }
+    this.products = newProduct;
+    return this.products;
+}
 }
